@@ -1,19 +1,24 @@
-<h1 align="center">Hi there, I'm Mohammed Tahoor M. 👋</h1>
-<h3 align="center">Implementation Executive | Web Solutions Consultant</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohammed%20Tahoor%20M.&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Implementation%20Executive%20%7C%20Web%20Solutions%20Consultant&descAlignY=55&descAlign=50" alt="Header Banner" />
+</div>
 
-<p align="center">
-  Results-driven professional with a strong foundation in software deployment, web infrastructure, and technical support. I specialize in utilizing modern web technologies, API integrations, and AI-assisted development workflows to accelerate technical resolutions and optimize client systems.
-</p>
+<!-- ANIMATED TYPING SUBTITLE -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Implementation+Executive;Web+Solutions+Consultant;Frontend+%26+Backend+Developer;AI-Assisted+Workflow+Expert" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://tahoor-portfolio.antideploy.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/mohammed-tahoor-m-a97851292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammedtahoor185@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -21,65 +26,88 @@
 
 ## 🚀 About Me
 
-- 💼 **Currently working as** an Implementation Executive at *Pathfinder Enterprises Solutions Pvt. Ltd.*
-- 👨‍💻 **Freelancing as** a Web Solutions Consultant, architecting and deploying e-commerce platforms.
-- 🎓 **Education:** BCA Graduate (University Gold Medalist 🥇) from Islamiah College.
-- 💡 **Passionate about:** Application support, API integrations, web infrastructure (DNS, GoDaddy, Hostinger), and AI-assisted workflows.
-- 🌱 **Always learning:** Constantly exploring new ways to rapidly scaffold web environments and optimize database structures.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <br>
+      Results-driven professional specializing in software deployment, web infrastructure, and API integrations. I leverage modern technologies and AI-assisted workflows to accelerate resolutions and optimize client systems.<br><br>
+      <ul>
+        <li>💼 <b>Current Role:</b> Implementation Executive at <i>Pathfinder Enterprises</i></li>
+        <li>👨‍💻 <b>Freelance:</b> Web Solutions Consultant & Architect</li>
+        <li>🎓 <b>Education:</b> BCA Graduate (University Gold Medalist 🥇)</li>
+        <li>💡 <b>Focus:</b> API Integrations, Web Infra (DNS/Hosting), AI Workflows</li>
+        <li>🌱 <b>Learning:</b> Advanced Cloud Deployments & Database Optimization</li>
+      </ul>
+    </td>
+    <td valign="center" width="40%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Arsenal
 
-**Frontend:**  
-![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+### 💻 Frontend & Languages
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+### 🗄️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-**Infrastructure, Cloud & Tools:**  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-white?style=flat&logo=githubcopilot&logoColor=black)
+### ☁️ Infrastructure, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-00A4A6?style=for-the-badge&logo=godaddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 💻 Featured Projects
 
-*   **[Kamyaab Academy](http://www.kamyaabacademy.com)**: Deployed an EdTech platform featuring course management dashboards. Configured Google OAuth 2.0 and integrated the Google Meet API for secure authentication and class management. *(PostgreSQL, Node.js, React)*
-*   **[VNB1 Web Platform](http://www.vnb1.in)**: Managed end-to-end domain DNS configuration, SSL implementation, and secure hosting deployment to ensure site reliability.
-*   **Ai Edition & Habeeb Watch House**: Configured and launched responsive e-commerce websites encompassing product catalogs, dynamic inventory management, and secure online checkout workflows.
-*   **Student Result Management System**: Built and configured a MySQL database backend with PHP and XAMPP to securely manage and track student academic records.
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
+| :--- | :--- | :--- |
+| **[Kamyaab Academy](http://www.kamyaabacademy.com)** | EdTech platform featuring course management dashboards. Configured Google OAuth 2.0 & Google Meet API for secure auth and online class management. | `PostgreSQL`, `Node.js`, `React` |
+| **[VNB1 Web Platform](http://www.vnb1.in)** | End-to-end domain DNS configuration, SSL implementation, and secure hosting deployment to ensure high site reliability. | `DNS`, `GoDaddy`, `Hostinger` |
+| **E-Commerce Portals** | Architected responsive e-commerce websites (Ai Edition & Habeeb Watch House) featuring dynamic inventory and secure checkout workflows. | `Web Stack`, `CMS` |
+| **Student Result MS** | Developed a robust database backend to securely manage, track, and retrieve student academic records using automated testing interfaces. | `MySQL`, `PHP`, `XAMPP` |
 
 ---
 
-## 💼 Professional Experience
-
-**Pathfinder Enterprises Solutions Pvt. Ltd.** | *Implementation Executive*
-*   Managing software implementation, testing, deployment, and user training for AI-based retail software solutions.
-*   Supporting client onboarding, system setup, go-live activities, and post-implementation troubleshooting.
-
-**Freelance Web Solutions Consultant** 
-*   Architecting, configuring, and deploying web applications and e-commerce platforms.
-*   Integrating third-party APIs, OAuth 2.0 authentication, and payment gateways.
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=0000" alt="GitHub Streak" />
 </div>
+<br>
+<div align="center">
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf93f9&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
+</div>
+
+<br>
+<p align="center">
+  <i>"Optimizing systems, automating workflows, and building solutions."</i>
+</p>
