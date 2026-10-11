@@ -53,9 +53,9 @@ When I am not deploying web applications or exploring Generative AI integrations
 - Troubleshot complex application states and validated database queries to optimize the merchant analytics dashboard, delivering real-time footfall insights, demand forecasting, and revenue assurance data.
 - **Skills**: `SaaS Implementation` • `Generative AI Integration` • `System Configuration` • `Technical Troubleshooting` • `API Management` • `SQL`
 
-#### 🔹 Freelance Full-Stack Web Consultant
+#### 🔹 Freelance Full-Stack Web Developer
 **Independent Consultant** *(Remote)*  
-📅 `Apr 2026 — Present`  
+📅 `Jun 2025 — Present`  
 - Architect and deploy scalable web applications and e-commerce platforms tailored to operational requirements using React, Next.js, and Node.js.
 - Integrate third-party REST APIs, secure authentication systems (OAuth 2.0), and cloud databases (PostgreSQL/MongoDB).
 - Accelerate development lifecycles by leveraging AI-assisted coding workflows (GitHub Copilot, ChatGPT) to rapidly scaffold environments and debug deployment pipelines.
