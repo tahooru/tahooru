@@ -46,7 +46,7 @@ When I am not deploying web applications or exploring Generative AI integrations
 
 #### 🔹 Technical Solutions & Implementation Engineer
 **Pathfinder Enterprises Solutions Pvt. Ltd.** *(Remote)*  
-📅 `Oct 2025 — Present` | 🏷️ **Project: RetailGPT**  
+📅 `Oct 2025 — Oct 2026` | 🏷️ **Project: RetailGPT**  
 - Led the end-to-end technical implementation and client deployment of **RetailGPT**, an AI-powered conversational retail and analytics platform.
 - Spearheaded the configuration and go-live deployment for enterprise clients, seamlessly integrating conversational Generative AI assistants with existing physical retail infrastructure.
 - Architected client onboarding workflows by configuring digital e-receipt systems, personalized marketing triggers, and last-mile fulfillment APIs to ensure a flawless 'phygital' shopping experience.
